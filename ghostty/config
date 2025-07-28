@@ -1,0 +1,6 @@
+font-family = JetBrainsMono Nerd Font
+font-size = 15
+font-feature = -calt
+theme = catppuccin-mocha
+cursor-color = #9ca0b0
+macos-option-as-alt = true
